@@ -12,7 +12,7 @@ cc-by-sa-4.0
 Also see
 ========
 
-[EG-2 Kit](https://www.infinitemachinery.com/eg-2)
+[EG-1 Kit](https://www.infinitemachinery.com/eg-1)
 
 [Infinite Machinery Store](https://www.infinitemachinery.com)
 
